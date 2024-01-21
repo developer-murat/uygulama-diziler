@@ -1,0 +1,2 @@
+# uygulama-diziler
+UYGULAMA DİZİLER
